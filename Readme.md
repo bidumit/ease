@@ -3,7 +3,7 @@ EASE
 
 Overview
 ---------------------
-This is a repo with functions that can score arbitrary free text and numeric predictors.
+This is a repo with that can score arbitrary free text and numeric predictors.
 This is licensed under the AGPL, please see LICENSE.txt for details.
 The goal here is to provide a high-performance, scalable solution that can predict targets from arbitrary values.
 
